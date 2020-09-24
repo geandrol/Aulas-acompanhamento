@@ -1,0 +1,39 @@
+2-Entre na conta;
+E-mail: hugocosta_23@outlook.com
+Senha: Bvcgfd10
+
+
+date - data
+
+time- hora
+
+ver- verção windoes
+
+dir - diretorios --- dir \p vai em bloco em bloco
+
+cls  - limpar
+
+md - criar pasta
+
+cd - entrar pasta -- cd.. sai
+
+rd - apagar pasta 
+
+dree - mostra toda raiz ..do c:
+
+chkdsk - especificações do disco
+
+
+git add .
+
+git status
+
+git commit -m ""
+
+git push origin master
+
+--
+
+git checkout -b "pasta"  ou  git checkout " master"
+
+git branch -d
